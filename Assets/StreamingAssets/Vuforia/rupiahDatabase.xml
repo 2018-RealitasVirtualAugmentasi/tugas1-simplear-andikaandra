@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="random_fluro_pattern_by_zyari-d4p1u5z" size="5.000000 3.633333" />
+    <ImageTarget name="rupiahTarget" size="5.000000 2.167424" />
+  </Tracking>
+</QCARConfig>
